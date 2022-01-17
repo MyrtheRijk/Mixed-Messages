@@ -1,5 +1,5 @@
 # Mixed-Messages
-This repository contains a message generator program. It combines subjects, verbs, objects and time to make a random sentance. 
+This repository contains a message generator program. It combines subjects, verbs, objects and time to make a random sentence. 
 
 ### Team
 This project was made by Myrthe Rijk and Saadi Toumi Fouad. We started this project together as part of a training on Codecademy. We learned to work on a project in a team and to use Git with Github.
@@ -8,7 +8,7 @@ This project was made by Myrthe Rijk and Saadi Toumi Fouad. We started this proj
 This project was made with Javascript.
 
 ### Launch
-This project was launched on January 17th 2022. 
+This project was launched on January the 17th 2022. 
 
 
 
